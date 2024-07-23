@@ -1,15 +1,15 @@
-## Olá 👋 Eu sou o Felipe
+## Hello 👋 I'm Felipe
 
-- 🔭 Atualmente estou trabalhando como Desenvolvedor Full-Stack
-- 🚀 Apaixonado por novas tecnologias e desenvolvimento de sistemas
+- 🔭 I am currently working as a Full-Stack Developer
+- 🚀 Passionate about new technologies and system development
 
-## Como me contatar
+## How to contact me
 <div> 
     <a href = "mailto:felipe.pires.soaresti@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/felipe-pires-soares" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-## Minhas Principais Tecnologias
+## Tech stack
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
