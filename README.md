@@ -7,8 +7,9 @@ Graduado em análise e desenvolvimento de sistemas, estou sempre em busca de apr
 - 🛠️ &nbsp; Habilidades em frameworks, como Express, NestJS e Spring Boot
 - 📈 &nbsp; Habilidades em monitoramento com Dynatrace
 - ☁️ &nbsp; Conhecimento em sistemas de Cloud, como Azure e AWS
+- 🎓 &nbsp; Pós-graduação em Software Architecture (2026 - Atualmente)
 - 🎓 &nbsp; Análise e Desenvolvimento de Sistemas (2018 - 2020)
-- 🎓 &nbsp; Técnico em Informática Integrado ao Ensino Médio (2014 - 2016)
+- 🎓 &nbsp; Ensino Médio Integrado ao Técnico em Informática (2014 - 2016)
 - 🚀 &nbsp; Apaixonado por novas tecnologias e desenvolvimento de sistemas
 
 ## Entre em contato
