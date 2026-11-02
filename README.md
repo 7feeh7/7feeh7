@@ -76,7 +76,7 @@ Graduado em análise e desenvolvimento de sistemas, estou sempre em busca de apr
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="35" height="35"/><br>Redis
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="35" height="35"/><br>AWS
+      <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/amazon-web-services/default.svg" alt="AWS" width="35" height="35"/><br>AWS
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="35" height="35"/><br>Azure
