@@ -118,5 +118,8 @@ Graduado em análise e desenvolvimento de sistemas, estou sempre em busca de apr
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="35" height="35"/><br>Angular
     </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" alt="Terraform" width="35" height="35"/><br>Terraform
+    </td>
   </tr>
 </table>
