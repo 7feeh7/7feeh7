@@ -8,7 +8,6 @@ Graduado em análise e desenvolvimento de sistemas e pós-graduando em Software 
 - ☁️ &nbsp; Experiência com AWS, Azure e arquiteturas Serverless
 - 📈 &nbsp; Observabilidade com Grafana, Datadog, Dynatrace e CloudWatch
 - 🤖 &nbsp; Conhecimentos em IA Generativa, RAG, embeddings e integração com LLMs
-- 🧠 &nbsp; Conhecimento em SDD (Spec-Driven Development), engenharia de contexto e otimização do consumo de tokens
 - ☁️ &nbsp; Conhecimento em sistemas de Cloud, como Azure e AWS
 - 🎓 &nbsp; Pós-graduação em Software Architecture (2026 - Atualmente)
 - 🎓 &nbsp; Análise e Desenvolvimento de Sistemas (2018 - 2020)
@@ -52,7 +51,7 @@ Graduado em análise e desenvolvimento de sistemas e pós-graduando em Software 
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="35" height="35"/><br>Spring Boot
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/openai/openai-original.svg" alt="OpenAI" width="35" height="35"/><br>OpenAI
+      <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.101.0/icons/openai.svg" alt="OpenAI" width="35" height="35"/><br>OpenAI
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="35" height="35"/><br>React
