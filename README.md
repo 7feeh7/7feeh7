@@ -1,6 +1,6 @@
 ## Olá 👋 Seja bem vindo!!!
 
-Graduado em análise e desenvolvimento de sistemas e pós-graduando em Software Architecture, estou sempre em busca de aprender e aplicar meus conhecimentos, com foco na qualidade do código, arquitetura de software e experiência do usuário.
+Graduado em análise e desenvolvimento de sistemas e pós-graduando em Software Architecture, estou sempre em busca de aprender e aplicar meus conhecimentos, preocupado na experiência do usuário e na qualidade do código.
 
 - 💼 &nbsp; Desenvolvedor Full-Stack, com foco em Backend
 - 🧩 &nbsp; Experiência em microsserviços, sistemas distribuídos e integrações
@@ -8,7 +8,6 @@ Graduado em análise e desenvolvimento de sistemas e pós-graduando em Software 
 - ☁️ &nbsp; Experiência com AWS, Azure e arquiteturas Serverless
 - 📈 &nbsp; Observabilidade com Grafana, Datadog, Dynatrace e CloudWatch
 - 🤖 &nbsp; Conhecimentos em IA Generativa, RAG, embeddings e integração com LLMs
-- ☁️ &nbsp; Conhecimento em sistemas de Cloud, como Azure e AWS
 - 🎓 &nbsp; Pós-graduação em Software Architecture (2026 - Atualmente)
 - 🎓 &nbsp; Análise e Desenvolvimento de Sistemas (2018 - 2020)
 - 🎓 &nbsp; Ensino Médio Integrado ao Técnico em Informática (2014 - 2016)
