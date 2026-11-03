@@ -1,6 +1,6 @@
 ## Olá 👋 Seja bem vindo!!!
 
-Graduado em análise e desenvolvimento de sistemas, estou sempre em busca de aprender e aplicar meus conhecimentos, preocupado na experiência do usuário e na qualidade do código.
+Graduado em análise e desenvolvimento de sistemas e pós-graduando em Software Architecture, estou sempre em busca de aprender e aplicar meus conhecimentos, preocupado na experiência do usuário e na qualidade do código.
 
 - 💼 &nbsp; Atualmente trabalho como Desenvolvedor Full-Stack
 - 🌐 &nbsp; Experiência em diversas linguagens, como NodeJS, Java e Python 
@@ -16,7 +16,6 @@ Graduado em análise e desenvolvimento de sistemas, estou sempre em busca de apr
 
 <div> 
     <a href = "mailto:felipe.pires.soaresti@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/felipe-pires-soares" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 ## 🚀 Minha stack 
@@ -90,13 +89,13 @@ Graduado em análise e desenvolvimento de sistemas, estou sempre em busca de apr
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35" height="35"/><br>Git
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35" height="35"/><br>GitHub
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" alt="Grafana" width="35" height="35"/><br>Grafana
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="35" height="35"/><br>GitLab
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" alt="RabbitMQ" width="35" height="35"/><br>RabbitMQ
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" width="35" height="35"/><br>Bitbucket
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" alt="Kubernetes" width="35" height="35"/><br>Kubernetes
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" width="35" height="35"/><br>Swagger
@@ -123,3 +122,4 @@ Graduado em análise e desenvolvimento de sistemas, estou sempre em busca de apr
     </td>
   </tr>
 </table>
+
