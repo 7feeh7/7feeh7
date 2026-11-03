@@ -1,17 +1,19 @@
 ## Olá 👋 Seja bem vindo!!!
 
-Graduado em análise e desenvolvimento de sistemas e pós-graduando em Software Architecture, estou sempre em busca de aprender e aplicar meus conhecimentos, preocupado na experiência do usuário e na qualidade do código.
+Graduado em análise e desenvolvimento de sistemas e pós-graduando em Software Architecture, estou sempre em busca de aprender e aplicar meus conhecimentos, com foco na qualidade do código, arquitetura de software e experiência do usuário.
 
 - 💼 &nbsp; Desenvolvedor Full-Stack, com foco em Backend
 - 🧩 &nbsp; Experiência em microsserviços, sistemas distribuídos e integrações
 - ⚙️ &nbsp; Desenvolvimento com TypeScript, Node.js, Java e Spring Boot
 - ☁️ &nbsp; Experiência com AWS, Azure e arquiteturas Serverless
 - 📈 &nbsp; Observabilidade com Grafana, Datadog, Dynatrace e CloudWatch
+- 🤖 &nbsp; Conhecimentos em IA Generativa, RAG, embeddings e integração com LLMs
+- 🧠 &nbsp; Conhecimento em SDD (Spec-Driven Development), engenharia de contexto e otimização do consumo de tokens
 - ☁️ &nbsp; Conhecimento em sistemas de Cloud, como Azure e AWS
 - 🎓 &nbsp; Pós-graduação em Software Architecture (2026 - Atualmente)
 - 🎓 &nbsp; Análise e Desenvolvimento de Sistemas (2018 - 2020)
 - 🎓 &nbsp; Ensino Médio Integrado ao Técnico em Informática (2014 - 2016)
-- 🚀 &nbsp; Apaixonado por novas tecnologias e desenvolvimento de sistemas
+- 🚀 &nbsp; Apaixonado por arquitetura de software e desenvolvimento de sistemas
 
 ## Entre em contato
 
@@ -50,7 +52,7 @@ Graduado em análise e desenvolvimento de sistemas e pós-graduando em Software 
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="35" height="35"/><br>Spring Boot
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" width="35" height="35"/><br>Sequelize
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/openai/openai-original.svg" alt="OpenAI" width="35" height="35"/><br>OpenAI
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="35" height="35"/><br>React
